@@ -51,12 +51,19 @@
   width: 300px;
   margin: 0 15px 15px 0;
   height: 350px;
+  
 }
 .box img{
   max-width: 100%;
 }
 
-
+.box p{
+  text-align: start;
+  color: green;
+  font-size: 150%;
+  font-weight: bold;
+  font-family: Georgia, 'Times New Roman', Times, serif ;
+}
 
 
 
