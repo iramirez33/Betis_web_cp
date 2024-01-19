@@ -39,3 +39,24 @@
 .actualidad{
     margin-left: 75px ;
 }
+
+.back_destacado{
+  background-color: green;
+}
+
+.box{
+  background-color: white;
+  border: thin solid green;
+  float: left;
+  width: 300px;
+  margin: 0 15px 15px 0;
+  height: 350px;
+}
+.box img{
+  max-width: 100%;
+}
+
+
+
+
+
