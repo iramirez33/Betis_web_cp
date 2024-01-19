@@ -21,6 +21,11 @@
 
 .subitem { border: thin solid red; }
 
+.item2{
+  color: White;
+  font-size: 200%;
+}
+
 .submenu { display: none;}
 
 .item:hover > .submenu {
